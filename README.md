@@ -34,8 +34,11 @@ In this simple app implemented connecting to an API https://min-api.cryptocompar
 
 
 
-- CryptoCompare API
-The CryptoCompare API was used to make this app - https://min-api.cryptocompare.com/
+
+
+### CryptoCompare API
+
+- The CryptoCompare API was used to make this app - https://min-api.cryptocompare.com/
 
 
 ### Endpoints Used
