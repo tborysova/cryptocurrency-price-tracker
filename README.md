@@ -34,13 +34,13 @@ In this simple app implemented connecting to an API https://min-api.cryptocompar
 
 
 
-CryptoCompare API
-The CryptoCompare API was used to make this app, [https://min-api.cryptocompare.com/]
+- CryptoCompare API
+The CryptoCompare API was used to make this app - https://min-api.cryptocompare.com/
 
 
 ### Endpoints Used
-## Metadata
-https://pro-api.coinmarketcap.com/v1/cryptocurrency/info
+
+https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD
 
 
 
